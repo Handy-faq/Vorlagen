@@ -1,0 +1,86 @@
+            <PreferenceScreen android:title="@string/xxx">
+                <Preference android:title="@string/xxx_threadname1" android:key="xxx_threadname1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link1" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname2" android:key="xxx_threadname2">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link2" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname3" android:key="xxx_threadname3">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link3" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname4" android:key="xxx_threadname4">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link4" />
+                </Preference>	
+                <Preference android:title="@string/xxx_threadname5" android:key="xxx_threadname5">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link5" />
+                </Preference>	
+                <Preference android:title="@string/xxx_threadname6" android:key="xxx_threadname6">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link6" />
+                </Preference>	
+                <Preference android:title="@string/xxx_threadname7" android:key="xxx_threadname7">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link7" />
+                </Preference>	
+                <Preference android:title="@string/xxx_threadname8" android:key="xxx_threadname8">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link8" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname9" android:key="xxx_threadname9" android:summary="@string/xxx_threadname9.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link9" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname10" android:key="xxx_threadname10">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link10" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname11" android:key="xxx_threadname11" android:summary="@string/xxx_threadname11.1">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link11" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname12" android:key="xxx_threadname12">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link12" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname13" android:key="xxx_threadname13">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link13" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname14" android:key="xxx_threadname14">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link14" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname15" android:key="xxx_threadname15">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link15" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname16" android:key="xxx_threadname16">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link16" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname17" android:key="xxx_threadname17">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link17" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname18" android:key="xxx_threadname18">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link18" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname19" android:key="xxx_threadname19">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link19" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname20" android:key="xxx_threadname20">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link20" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname21" android:key="xxx_threadname21">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link21" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname22" android:key="xxx_threadname22">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link22" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname23" android:key="xxx_threadname23">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link23" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname24" android:key="xxx_threadname24">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link24" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname25" android:key="xxx_threadname25">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link23" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname26" android:key="xxx_threadname26">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link26" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname27" android:key="xxx_threadname27">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link27" />
+                </Preference>
+                <Preference android:title="@string/xxx_threadname28" android:key="xxx_threadname28">
+                    <intent android:action="android.intent.action.VIEW" android:data="@string/xxx_thread_link28" />
+                </Preference>				
+            </PreferenceScreen>				
